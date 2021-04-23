@@ -1,0 +1,101 @@
+#EXTM3U
+#EXTINF:-1,Arte 1
+http://201.13.35.187:2086/play/a024/index.m3u8
+#EXTINF:-1,Band
+http://201.13.35.187:2086/play/a00l/index.m3u8
+#EXTINF:-1,Boomerang HD
+http://201.13.35.187:2086/play/a01c/index.m3u8
+#EXTINF:-1,CGTN
+http://201.13.35.187:2086/play/a017/index.m3u8
+#EXTINF:-1,Campeonato Carioca 1
+http://201.13.35.187:2086/play/a02g/index.m3u8
+#EXTINF:-1,Campeonato Carioca 2
+http://201.13.35.187:2086/play/a02h/index.m3u8
+#EXTINF:-1,Cartoon Network
+http://201.13.35.187:2086/play/a00d/index.m3u8
+#EXTINF:-1,Copa do Nordeste 1
+http://201.13.35.187:2086/play/a02c/index.m3u8
+#EXTINF:-1,Copa do Nordeste 2
+http://201.13.35.187:2086/play/a02d/index.m3u8
+#EXTINF:-1,Cultura
+http://201.13.35.187:2086/play/a00j/index.m3u8
+#EXTINF:-1,Curta! HD
+http://201.13.35.187:2086/play/a01a/index.m3u8
+#EXTINF:-1,DW (Deutsch+)
+http://201.13.35.187:2086/play/a00h/index.m3u8
+#EXTINF:-1,Disc. Home & Health
+http://201.13.35.187:2086/play/a012/index.m3u8
+#EXTINF:-1,Discovery Kids
+http://201.13.35.187:2086/play/a013/index.m3u8
+#EXTINF:-1,Disney Junior
+http://201.13.35.187:2086/play/a014/index.m3u8
+#EXTINF:-1,E!
+http://201.13.35.187:2086/play/a023/index.m3u8
+#EXTINF:-1,ESPN
+http://201.13.35.187:2086/play/a025/index.m3u8
+#EXTINF:-1,FOX
+http://201.13.35.187:2086/play/a004/index.m3u8
+#EXTINF:-1,Futura
+http://201.13.35.187:2086/play/a022/index.m3u8
+#EXTINF:-1,GNT
+http://201.13.35.187:2086/play/a011/index.m3u8
+#EXTINF:-1,Globo
+http://201.13.35.187:2086/play/a00a/index.m3u8
+#EXTINF:-1,HBO Family
+http://201.13.35.187:2086/play/a006/index.m3u8
+#EXTINF:-1,HBO Signature
+http://201.13.35.187:2086/play/a007/index.m3u8
+#EXTINF:-1,MAX Prime
+http://201.13.35.187:2086/play/a008/index.m3u8
+#EXTINF:-1,MTV
+http://201.13.35.187:2086/play/a00n/index.m3u8
+#EXTINF:-1,Mega TV
+http://201.13.35.187:2086/play/a00b/index.m3u8
+#EXTINF:-1,Megapix
+http://201.13.35.187:2086/play/a005/index.m3u8
+#EXTINF:-1,Music Box Brazil HD
+http://201.13.35.187:2086/play/a01d/index.m3u8
+#EXTINF:-1,OFF
+http://201.13.35.187:2086/play/a001/index.m3u8
+#EXTINF:-1,Paramount
+http://201.13.35.187:2086/play/a015/index.m3u8
+#EXTINF:-1,Polishop TV
+http://201.13.35.187:2086/play/a00m/index.m3u8
+#EXTINF:-1,Premiere 3
+http://201.13.35.187:2086/play/a018/index.m3u8
+#EXTINF:-1,Premiere 5
+http://201.13.35.187:2086/play/a019/index.m3u8
+#EXTINF:-1,Prime Box Brazil HD
+http://201.13.35.187:2086/play/a01e/index.m3u8
+#EXTINF:-1,RAI
+http://201.13.35.187:2086/play/a00p/index.m3u8
+#EXTINF:-1,Record
+http://201.13.35.187:2086/play/a00k/index.m3u8
+#EXTINF:-1,Rede 21
+http://201.13.35.187:2086/play/a00c/index.m3u8
+#EXTINF:-1,Sexy Hot
+http://201.13.35.187:2086/play/a028/index.m3u8
+#EXTINF:-1,Space
+http://201.13.35.187:2086/play/a00g/index.m3u8
+#EXTINF:-1,TNT
+http://201.13.35.187:2086/play/a00f/index.m3u8
+#EXTINF:-1,TV Brasil 2
+http://201.13.35.187:2086/play/a020/index.m3u8
+#EXTINF:-1,TV JustiĿa
+http://201.13.35.187:2086/play/a00i/index.m3u8
+#EXTINF:-1,TV RÆ Tim Bum
+http://201.13.35.187:2086/play/a00e/index.m3u8
+#EXTINF:-1,TV Senado
+http://201.13.35.187:2086/play/a021/index.m3u8
+#EXTINF:-1,Telecine Fun
+http://201.13.35.187:2086/play/a016/index.m3u8
+#EXTINF:-1,Telecine Premium
+http://201.13.35.187:2086/play/a00o/index.m3u8
+#EXTINF:-1,Universal TV
+http://201.13.35.187:2086/play/a003/index.m3u8
+#EXTINF:-1,Venus
+http://201.13.35.187:2086/play/a00q/index.m3u8
+#EXTINF:-1,Viva
+http://201.13.35.187:2086/play/a002/index.m3u8
+#EXTINF:-1,Warner Channel
+http://201.13.35.187:2086/play/a027/index.m3u8
