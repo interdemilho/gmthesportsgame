@@ -220,143 +220,143 @@ http://187.32.214.221:8003/play/a03l/index.m3u8
 http://187.32.214.221:8003/play/a02r/index.m3u8
 #EXTINF:-1,Warner Channel HD (clone)
 http://187.32.214.221:8003/play/a03m/index.m3u8
-#EXTINF:0,GLOBO SP
+#EXTINF:-1,GLOBO SP
 http://2203.janjua.pw:8089/live/aovivotudo_globo/playlist.m3u8?id=89925&pk=af4e9805eb9793b325987b13e3b970a9d745778e7e7176730c3fce5ae5d7e023
 
-#EXTINF:0,GLOBO RJ
+#EXTINF:-1,GLOBO RJ
 https://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
 
-#EXTINF:0,BAND 
+#EXTINF:-1,BAND 
 https://origin-02.nxplay.com.br/BAND_HD_PFZ_NX/tracks-v1a1/mono.m3u8
  
-#EXTINF:0,BAND OPC 2
+#EXTINF:-1,BAND OPC 2
 http://2203.janjua.pw:8089/live/aovivotudo_band/playlist.m3u8?id=89925&pk=af4e9805eb9793b325987b13e3b970a9d745778e7e7176730c3fce5ae5d7e023
 
-#EXTINF:0,BAND OPC 3
+#EXTINF:-1,BAND OPC 3
 http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
 
-#EXTINF:0,RBA BAND
+#EXTINF:-1,RBA BAND
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 
-#EXTINF:0,FOX SPORTS
+#EXTINF:-1,FOX SPORTS
 http://20nl10whiskey.ga/SD_FOX_SPORTS/video.m3u8?token=7d8486902dad6d53d228a1c8f8e928e0
 
-#EXTINF:0,DAZN 1
+#EXTINF:-1,DAZN 1
 http://20nl10hotel.ga/HD_DAZN_1/video.m3u8?token=7d8486902dad6d53d228a1c8f8e928e0
 
-#EXTINF:0,SPORTV
+#EXTINF:-1,SPORTV
 http://50.7.34.34/SD_UDHASKDN_1/video.m3u8?token=7d8486902dad6d53d228a1c8f8e928e0
 
-#EXTINF:0,ESPORTE_INTERATIVO 1
+#EXTINF:-1,ESPORTE_INTERATIVO 1
 http://20nl10hotel.ga/SD_ESPORTE_INTERATIVO_1/video.m3u8?token=7d8486902dad6d53d228a1c8f8e928e0
 
-#EXTINF:0,ESPORTE_INTERATIVO 2
+#EXTINF:-1,ESPORTE_INTERATIVO 2
 http://20nl10hotel.ga/SD_ESPORTE_INTERATIVO_2/video.m3u8?token=7d8486902dad6d53d228a1c8f8e928e0
 
-#EXTINF:0,COPA DO NORDESTE 1
+#EXTINF:-1,COPA DO NORDESTE 1
 http://21eua10india.cf/HD_NORDESTE_1/video.m3u8?token=7d8486902dad6d53d228a1c8f8e928e0
 
-#EXTINF:0,CONMEBOL 01
+#EXTINF:-1,CONMEBOL 01
 http://50.7.34.34/SD_CONMEBOL_01/video.m3u8?token=7d8486902dad6d53d228a1c8f8e928e0
 
-#EXTINF:0,CONMEBOL 02
+#EXTINF:-1,CONMEBOL 02
 http://50.7.34.34/SD_CONMEBOL_02/video.m3u8?token=7d8486902dad6d53d228a1c8f8e928e0
 
-#EXTINF:0,CONMEBOL 03
+#EXTINF:-1,CONMEBOL 03
 http://50.7.34.34/SD_CONMEBOL_03/video.m3u8?token=7d8486902dad6d53d228a1c8f8e928e0
 
-#EXTINF:0,CONMEBOL 04
+#EXTINF:-1,CONMEBOL 04
 http://50.7.34.34/SD_CONMEBOL_04/video.m3u8?token=7d8486902dad6d53d228a1c8f8e928e0
 
-#EXTINF:0,PFC 2
+#EXTINF:-1,PFC 2
 http://14ca3mike.ga/SD_PFC_6/video.m3u8?token=7d8486902dad6d53d228a1c8f8e928e0
 
-#EXTINF:0,PFC 3
+#EXTINF:-1,PFC 3
 http://14ca3bravo.ga/FHD_PFC_7/video.m3u8?token=7d8486902dad6d53d228a1c8f8e928e0
 
-#EXTINF:0,EI PLUS
+#EXTINF:-1,EI PLUS
 http://20eua10delta.cf/SD_EI_PLUS_3/video.m3u8?token=7d8486902dad6d53d228a1c8f8e928e0
 
-#EXTINF:0,BAND SPORTS
+#EXTINF:-1,BAND SPORTS
 http://13ca3tango.cf/HD_BAND_SPORTS/video.m3u8?token=7d8486902dad6d53d228a1c8f8e928e0
 
-#EXTINF:0,ESPN BRASIL
+#EXTINF:-1,ESPN BRASIL
 http://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-p.m3u8
 
-#EXTINF:0,ESPN
+#EXTINF:-1,ESPN
 http://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8
 
-#EXTINF:0,ESPN 2
+#EXTINF:-1,ESPN 2
 http://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_720_av-p.m3u8
 
-#EXTINF:0,ESPN EXTRA
+#EXTINF:-1,ESPN EXTRA
 http://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_720_av-p.m3u8
 
-#EXTINF:0,BAND SPORTS
+#EXTINF:-1,BAND SPORTS
 https://origin-02.nxplay.com.br/BAND_SPORTS_NXPLAY/video.m3u8
 
-#EXTINF:0,COMBATE
+#EXTINF:-1,COMBATE
 http://2203.janjua.pw:8089/live/aovivotudo_combate/playlist.m3u8?id=89925&pk=af4e9805eb9793b325987b13e3b970a9d745778e7e7176730c3fce5ae5d7e023
  
-#EXTINF:0,SPORTV
+#EXTINF:-1,SPORTV
 http://2203.janjua.pw:8089/live/aovivotudo_sportv/playlist.m3u8?id=89925&pk=af4e9805eb9793b325987b13e3b970a9d745778e7e7176730c3fce5ae5d7e023
  
-#EXTINF:0,SPORTV 2
+#EXTINF:-1,SPORTV 2
 http://2203.janjua.pw:8089/live/aovivotudo_sportv2/playlist.m3u8?id=89925&pk=af4e9805eb9793b325987b13e3b970a9d745778e7e7176730c3fce5ae5d7e023
  
-#EXTINF:0,SPORTV 3
+#EXTINF:-1,SPORTV 3
 http://2203.janjua.pw:8089/live/aovivotudo_sportv3/playlist.m3u8?id=89925&pk=af4e9805eb9793b325987b13e3b970a9d745778e7e7176730c3fce5ae5d7e023
  
-#EXTINF:0,FOX SPORTS
+#EXTINF:-1,FOX SPORTS
 http://2203.janjua.pw:8089/live/aovivotudo_foxsports/playlist.m3u8?id=89925&pk=af4e9805eb9793b325987b13e3b970a9d745778e7e7176730c3fce5ae5d7e023
  
-#EXTINF:0,FOX SPORTS 2
+#EXTINF:-1,FOX SPORTS 2
 http://2203.janjua.pw:8089/live/aovivotudo_foxsports2/playlist.m3u8?id=89925&pk=af4e9805eb9793b325987b13e3b970a9d745778e7e7176730c3fce5ae5d7e023
 
-#EXTINF:0,PFC 1
+#EXTINF:-1,PFC 1
 http://2203.janjua.pw:8089/live/aovivotudo_premier1/playlist.m3u8?id=89925&pk=af4e9805eb9793b325987b13e3b970a9d745778e7e7176730c3fce5ae5d7e023
  
-#EXTINF:0,PFC 2
+#EXTINF:-1,PFC 2
 http://2203.janjua.pw:8089/live/aovivotudo_premier2/playlist.m3u8?id=89925&pk=af4e9805eb9793b325987b13e3b970a9d745778e7e7176730c3fce5ae5d7e023
  
-#EXTINF:0,PFC 3
+#EXTINF:-1,PFC 3
 http://2203.janjua.pw:8089/live/aovivotudo_premier3/playlist.m3u8?id=89925&pk=af4e9805eb9793b325987b13e3b970a9d745778e7e7176730c3fce5ae5d7e023
  
-#EXTINF:0,PFC 4
+#EXTINF:-1,PFC 4
 http://2203.janjua.pw:8089/live/aovivotudo_premier4/playlist.m3u8?id=89925&pk=af4e9805eb9793b325987b13e3b970a9d745778e7e7176730c3fce5ae5d7e023
  
-#EXTINF:0,PFC 5
+#EXTINF:-1,PFC 5
 http://2203.janjua.pw:8089/live/aovivotudo_premier5/playlist.m3u8?id=89925&pk=af4e9805eb9793b325987b13e3b970a9d745778e7e7176730c3fce5ae5d7e023
  
-#EXTINF:0,PFC 6
+#EXTINF:-1,PFC 6
 http://2203.janjua.pw:8089/live/aovivotudo_premier6/playlist.m3u8?id=89925&pk=af4e9805eb9793b325987b13e3b970a9d745778e7e7176730c3fce5ae5d7e023
 
-#EXTINF:0,TNT
+#EXTINF:-1,TNT
 http://2203.janjua.pw:8089/live/aovivotudo_tnt/playlist.m3u8?id=89925&pk=af4e9805eb9793b325987b13e3b970a9d745778e7e7176730c3fce5ae5d7e023
 
-#EXTINF:0,RAI SPORT
+#EXTINF:-1,RAI SPORT
 http://2203.janjua.pw:8089/live/eretrrtdspo/playlist.m3u8?id=89925&pk=af4e9805eb9793b325987b13e3b970a9d745778e7e7176730c3fce5ae5d7e023
 
-#EXTINF:0,PFC
+#EXTINF:-1,PFC
 http://158.58.173.92:8081/loadbalance/pfc/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xMi8yMDIxIDI6MTM6MzcgQU0maGFzaF92YWx1ZT0rU2pkVGxQTlp5RVFMYjhVbml1cHdRPT0mdmFsaWRtaW51dGVzPTIw
 
-#EXTINF:0,Premiere
+#EXTINF:-1,Premiere
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_2000/index.m3u8
 
-#EXTINF:0,Sportv
+#EXTINF:-1,Sportv
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8
 
-#EXTINF:0,Tnt
+#EXTINF:-1,Tnt
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs4/vintequatrohrs4_2000/index.m3u8
 
-#EXTINF:0,Fox Sports
+#EXTINF:-1,Fox Sports
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs3/vintequatrohrs3_2000/index.m3u8
 
-#EXTINF:0,Dazn
+#EXTINF:-1,Dazn
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes4/esportes4_2000/index.m3u8
 
-#EXTINF:0,Espn br
+#EXTINF:-1,Espn br
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs5/vintequatrohrs5_2000/index.m3u8
 
-#EXTINF:0,BBB
+#EXTINF:-1,BBB
 https://newedge.eu-central-1.edge.mycdn.live/live/bbb24hras/bbb24hras_2000/index.m3u8
